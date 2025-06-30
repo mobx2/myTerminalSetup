@@ -47,9 +47,8 @@ myTerminalSetup/
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/mobx2/myTerminalSetup.git
 
-git clone https://github.com/mobx2/myTerminalSetup.git
+it clone https://github.com/mobx2/myTerminalSetup.git
 cd myTerminalSetup
 bash install.sh
 
@@ -76,6 +75,7 @@ bash install.sh
         zsh
 
         starship
+```
 
 ## 📌 Notes
 
@@ -97,4 +97,4 @@ bash install.sh
 
     Bash-compatible system (Linux, macOS)
 
-```
+
