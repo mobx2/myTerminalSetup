@@ -26,10 +26,6 @@ A minimal yet stylish terminal configuration built for speed, clarity, and aesth
 - 💻 Nerd Font & emoji support
 - 📸 Screenshot below
 
-## 📸 Preview
-
-![Terminal Screenshot](screenshots/terminal_preview.png)
-
 ## 📁 Structure
 
 myTerminalSetup/
